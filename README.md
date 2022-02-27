@@ -1,7 +1,7 @@
-# testing-backend
+# Testing-backend
 Backend + Testing
 
-## How To Run Tes
+## How To Run Test
 ````
 npm test
 ````
